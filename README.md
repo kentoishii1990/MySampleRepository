@@ -1,0 +1,2 @@
+# MySampleRepository
+テスト用サンプルリポジトリ
